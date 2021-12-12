@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/5M5nDqy/706056af0d5b1a8ee37282b65d7a857f.gif" alt="AKBAR" width="170" />
 
-## Akbar Bot
-
+## Nazri Bot
+## CARA FORK NYA GIMANA BLOG
 </div>
 
 <p align="center">
