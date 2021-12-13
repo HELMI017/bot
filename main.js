@@ -95,7 +95,7 @@ console.log(color(`${spc4}< ================================================== >
 console.log(color(`${spc3}[•]`, 'aqua'), color(`Hi        : ${ucapanWaktu}`, 'white'))
 console.log(color(`${spc3}[•]`, 'aqua'), color(`Bot Version : 2.1.2`, 'white'))
 console.log(color(`${spc3}[•]`, 'aqua'), color(`Status      : Online!`, 'white'))
-console.log(color(`${spc3}[•]`, 'aqua'), color(`Owner Helmi     : ${fakeyoi}`, 'white'))
+console.log(color(`${spc3}[•]`, 'aqua'), color(`Owner  Helmi     : ${fakeyoi}`, 'white'))
 console.log(color(`${spc4}< ================================================== >`, 'cyan'))
 
     console.log(color('⎇','red'), color('\n𝙉𝙤𝙩𝙚: 𝘿𝙤𝙣𝙩 𝙛𝙤𝙧𝙜𝙚𝙩 𝙩𝙤 𝙨𝙪𝙗𝙨𝙘𝙧𝙞𝙗𝙚 𝙢𝙤𝙣𝙨𝙩𝙚𝙧 𝙮𝙩', 'yellow'))
