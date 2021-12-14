@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/5M5nDqy/706056af0d5b1a8ee37282b65d7a857f.gif" alt="HELMI" width="170" />
+<img src="https://i.ibb.co/5M5nDqy/706056af0d5b1a8ee37282b65d7a857f.gif" alt="AKBAR" width="170" />
 
 ## Helmi Bot
 
@@ -16,7 +16,7 @@
 
 
 ## 1st Repository was deleted
-Had 5+ stars and 90+ forks, please dont forget to give star before forking.🙏🙇🏼‍♂️Terima kasih!!
+Had 5+ stars and 90+ forks, please dont forget to give star before forking.🙏🙇🏼‍♂️TERIMA GAJI!!
 
 ## Deploy
 
@@ -70,7 +70,7 @@ heroku/nodejs
 ## Connect With Me
 My Personal Chat👇
 <p align="center">
- <a href="https://wa.me/+0175575245"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://wa.me/+60175575245"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 My Whatsapp Group👇
